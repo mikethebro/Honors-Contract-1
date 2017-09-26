@@ -1,1 +1,1 @@
-# Honors-Contract-1
+# Honors Contract: Cryptocurrency Research
