@@ -1,5 +1,8 @@
 # Honors Contract: Cryptocurrency Research
 
+## Mentor
+Professor Andrew Brim, Computer Science Department at USU
+
 ## Topics
 What is Cryptocurrency?  
 How it trades  
