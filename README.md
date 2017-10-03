@@ -16,4 +16,8 @@ Risk comparison to real-world currencies
     <td>09/25/2017</td>
     <td>Met with Prof. Brim to discuss topics and proposal.</td>
   </tr>
+  <tr>
+    <td>10/02/2017</td>
+    <td>Met with Prof. Brim to read proposal and discuss Coursera course.</td>
+  </tr>
 </table>
