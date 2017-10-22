@@ -13,12 +13,8 @@ Risk comparison to real-world currencies
 
 <table>
   <tr>
-    <td>10/11/2017</td>
-    <td>Meeting with Departmental Honors Advisor.</td>
-  </tr>
-  <tr>
-    <td>10/12/2017</td>
-    <td>Project proposal to be submitted.</td>
+    <td>10/17/2017</td>
+    <td>Project proposal approved.</td>
   </tr>
   <tr>
     <td>10/30/2017</td>
